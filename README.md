@@ -1,1 +1,1 @@
-Tasks, reports, exercises for the Operational Systems Class (2024-2025 ECE)
+Tasks, reports, exercises for the Operational Systems Class ECE_ΓΚ702 (2024-2025)
